@@ -1,0 +1,5 @@
+# robots.txt for www.xuwenbo.com 2019.08.02
+User-agent: *
+Disallow: /404.html
+Disallow: /categories
+Sitemap: https://www.xuwenbo.com/sitemap.xml
